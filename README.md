@@ -1,7 +1,8 @@
 # AI Research Agent
 
 A modular, production-style **AI workflow system** built using **LangGraph**, **LangChain**, and the **Firecrawl API**.
-This project demonstrates how to design structured, multi-step AI pipelines capable of autonomous research and analysis — specifically for identifying, evaluating, and comparing **developer tools** across the web.
+This project demonstrates how to design structured, multi-step AI pipelines capable of autonomous research and analysis. 
+This tool specializes in identifying, evaluating, and comparing **developer tools** across the web.
 
 ---
 
@@ -51,3 +52,4 @@ uv run main.py
 
 **Built with:** Python, LangGraph, LangChain, Firecrawl API
 **Version:** 1.0.0
+
